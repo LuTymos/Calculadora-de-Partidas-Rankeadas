@@ -41,13 +41,13 @@ O Herói tem de saldo de 52 está no nível de Ouro
 ### Clone o Repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LuTymos/Calculadora-de-Partidas-Rankeadas.git)
 ```
 
 ### Navegue até o Diretório do Projeto:
 
 ```bash
-cd seu-repositorio
+cd Calculadora-de-Partidas-Rankeadas
 ```
 
 ### Execute o Código:
@@ -55,7 +55,7 @@ cd seu-repositorio
 No terminal, execute o seguinte comando:
 
 ```bash
-node calculadora.js
+node desafio.js
 ```
 
 ### Resultado Esperado:
